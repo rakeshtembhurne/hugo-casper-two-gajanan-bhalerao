@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>/tags/git/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/git/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/git/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>/tags/go/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/go/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/tags/golang/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/golang/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/golang/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/tags/hugo/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>/tags/templates/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/templates/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>/tags/themes/</link>
+      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/themes/</guid>
+      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/themes/</guid>
       <description></description>
     </item>
     
