@@ -5,7 +5,7 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
-publishDir = "public"
+publishDir = "docs"
 
 [params]
   title       = "Gajanan Bhalerao"
