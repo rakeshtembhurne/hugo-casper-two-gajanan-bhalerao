@@ -55,7 +55,7 @@
   
   <url>
     <loc>/tags/development/</loc>
-    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,8 +72,14 @@
   </url>
   
   <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/go/</loc>
-    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,7 +97,7 @@
   
   <url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +109,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
