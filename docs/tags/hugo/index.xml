@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on </title>
-    <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/hugo/</link>
+    <link>http://www.gajananbhalerao.in/tags/hugo/</link>
     <description>Recent content in Hugo on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rakeshtembhurne.github.io/new-hugo-casper-two/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gajananbhalerao.in/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/creating-a-new-theme/</link>
+      <link>http://www.gajananbhalerao.in/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/creating-a-new-theme/</guid>
+      <guid>http://www.gajananbhalerao.in/post/creating-a-new-theme/</guid>
       <description>Desc</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/getting-started-with-hugo/</link>
+      <link>http://www.gajananbhalerao.in/post/getting-started-with-hugo/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/getting-started-with-hugo/</guid>
+      <guid>http://www.gajananbhalerao.in/post/getting-started-with-hugo/</guid>
       <description></description>
     </item>
     

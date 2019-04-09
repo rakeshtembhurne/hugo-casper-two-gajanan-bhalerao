@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/</link>
+    <link>http://www.gajananbhalerao.in/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rakeshtembhurne.github.io/new-hugo-casper-two/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gajananbhalerao.in/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/creating-a-new-theme/</link>
+      <link>http://www.gajananbhalerao.in/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/creating-a-new-theme/</guid>
+      <guid>http://www.gajananbhalerao.in/post/creating-a-new-theme/</guid>
       <description>Desc</description>
     </item>
     
     <item>
       <title>Awesomeness</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/awesomeness/</link>
+      <link>http://www.gajananbhalerao.in/post/awesomeness/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/awesomeness/</guid>
+      <guid>http://www.gajananbhalerao.in/post/awesomeness/</guid>
       <description>Write description here&amp;hellip;.</description>
     </item>
     
     <item>
       <title>Wonderful</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/wonderful/</link>
+      <link>http://www.gajananbhalerao.in/post/wonderful/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/wonderful/</guid>
+      <guid>http://www.gajananbhalerao.in/post/wonderful/</guid>
       <description> Introduction </description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/about/</link>
+      <link>http://www.gajananbhalerao.in/about/</link>
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/about/</guid>
+      <guid>http://www.gajananbhalerao.in/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/getting-started-with-hugo/</link>
+      <link>http://www.gajananbhalerao.in/post/getting-started-with-hugo/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/getting-started-with-hugo/</guid>
+      <guid>http://www.gajananbhalerao.in/post/getting-started-with-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/hugo-template-primer/</link>
+      <link>http://www.gajananbhalerao.in/post/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/hugo-template-primer/</guid>
+      <guid>http://www.gajananbhalerao.in/post/hugo-template-primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/migrate-to-hugo-from-jekyll/</link>
+      <link>http://www.gajananbhalerao.in/post/migrate-to-hugo-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/migrate-to-hugo-from-jekyll/</guid>
+      <guid>http://www.gajananbhalerao.in/post/migrate-to-hugo-from-jekyll/</guid>
       <description>Content</description>
     </item>
     
     <item>
       <title>Colenak</title>
-      <link>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/colenak/</link>
+      <link>http://www.gajananbhalerao.in/post/colenak/</link>
       <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://rakeshtembhurne.github.io/new-hugo-casper-two/post/colenak/</guid>
+      <guid>http://www.gajananbhalerao.in/post/colenak/</guid>
       <description></description>
     </item>
     
