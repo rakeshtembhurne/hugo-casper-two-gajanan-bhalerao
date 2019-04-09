@@ -1,8 +1,8 @@
 +++
-title = ""
-description = "गजानन भालेराव"
+title = "गजानन भालेराव"
+description = "गजानन भालेराव राष्ट्रपति भवन येथे"
 tags = []
-date = "2014-04-02"
+date = "2019-02-06"
 categories = []
 nomenu = "main"
 image= "img/IMG_20190206_115919.jpg"
