@@ -1,4 +1,4 @@
-baseurl         = "http://www.gajananbhalerao.in/"
+baseurl         = "https://rakeshtembhurne.github.io/new-hugo-casper-two/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
