@@ -3,124 +3,124 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/creating-a-new-theme/</loc>
+    <loc>http://gajananbhalerao.in/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/awesomeness/</loc>
+    <loc>http://gajananbhalerao.in/post/awesomeness/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/wonderful/</loc>
+    <loc>http://gajananbhalerao.in/post/wonderful/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/about/</loc>
+    <loc>http://gajananbhalerao.in/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/getting-started-with-hugo/</loc>
+    <loc>http://gajananbhalerao.in/post/getting-started-with-hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/hugo-template-primer/</loc>
+    <loc>http://gajananbhalerao.in/post/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/migrate-to-hugo-from-jekyll/</loc>
+    <loc>http://gajananbhalerao.in/post/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/colenak/</loc>
+    <loc>http://gajananbhalerao.in/post/colenak/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/</loc>
+    <loc>http://gajananbhalerao.in/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/categories/</loc>
+    <loc>http://gajananbhalerao.in/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/development/</loc>
+    <loc>http://gajananbhalerao.in/tags/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/categories/development/</loc>
+    <loc>http://gajananbhalerao.in/categories/development/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/categories/food/</loc>
+    <loc>http://gajananbhalerao.in/categories/food/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/git/</loc>
+    <loc>http://gajananbhalerao.in/tags/git/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/go/</loc>
+    <loc>http://gajananbhalerao.in/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/golang/</loc>
+    <loc>http://gajananbhalerao.in/tags/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/categories/golang/</loc>
+    <loc>http://gajananbhalerao.in/categories/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/hugo/</loc>
+    <loc>http://gajananbhalerao.in/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/post/</loc>
+    <loc>http://gajananbhalerao.in/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/</loc>
+    <loc>http://gajananbhalerao.in/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/templates/</loc>
+    <loc>http://gajananbhalerao.in/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gajananbhalerao.in/tags/themes/</loc>
+    <loc>http://gajananbhalerao.in/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

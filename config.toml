@@ -1,4 +1,4 @@
-baseurl         = "http://www.gajananbhalerao.in/"
+baseurl         = "http://gajananbhalerao.in/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
