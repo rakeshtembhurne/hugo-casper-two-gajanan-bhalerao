@@ -6,15 +6,10 @@ nomenu:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Creating a New Theme
+title: सुप्रिया सुले यांची भेट
 weight: 10
 image: img/IMG_20190205_114924.jpg
-tags: [
-    "go",
-    "Git",
-    "hugo",
-    "development",
-]
+tags: []
 ---
 
-Desc
+गजानन भालेराव यांनी दिल्ली येथे आपल्या टीम सोबत सुप्रिया सुले यांची भेट घेतली. 

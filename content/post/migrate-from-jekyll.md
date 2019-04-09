@@ -5,9 +5,9 @@ nomenu:
   main:
     parent: tutorials
 prev: /tutorials/mathjax
-title: Migrate to Hugo from Jekyll
+title: संसद भवन दिल्ली
 noweight: 10
 image: img/IMG_20190206_122211.jpg
 ---
 
-Content
+संसद भवन दिल्ली- गजानन भालेराव आणि टीम
